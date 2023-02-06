@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to bottom right,cyan,darkcyan,aquamarine);
+}
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: justify;
+}
+.coluna{
+	width: 500px;
+	display: inline-block;
+}
+.coluna1{
+    width: 450px;
+    display: inline-block;
+}
+.photo{
+    width: 400px;
+}
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.title{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.foto{
+    width: 600px;
+    height: 500px;
+}
+.nada{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+li{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+#display{
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.displai{
+    background: linear-gradient(to bottom right,blue,dodgerblue,navy);
+    border-radius: 10px;
+    display: inline;
+}
