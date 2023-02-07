@@ -52,6 +52,7 @@ li{
     color: #ffffff;
     text-decoration: none;
 	display: none;
+	list-style:none;
 }
 .displai{
     background: linear-gradient(to bottom right,blue,dodgerblue,navy);
