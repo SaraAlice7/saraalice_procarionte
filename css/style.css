@@ -49,6 +49,11 @@ p{
     display: flex;
     padding: 2,37px;
 }
+.displai{
+    background: linear-gradient(to bottom right,blue,dodgerblue,navy);
+    border-radius: 10px;
+	display: none;
+}
 .embed-container{
     position: relative;
     padding-bottom: 56.25%;
