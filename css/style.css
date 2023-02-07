@@ -47,11 +47,12 @@ p{
     font-size: 18px;
     color: #ffffff;
     text-decoration: none;
+	display: none;
 }
 .displai{
     background: linear-gradient(to bottom right,blue,dodgerblue,navy);
     border-radius: 10px;
-    display: inline;
+    
 }
 #baixo{
     float: left;
