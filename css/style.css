@@ -82,3 +82,9 @@ li{
     margin: auto;
     display:flex;
 }
+#baixo{
+    float: left;
+    margin: 10px;
+    display: flex;
+    padding: 2 37px;
+}
