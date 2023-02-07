@@ -43,20 +43,15 @@ p{
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
-li{
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-}
 #display{
+    font-size: 18px;
     color: #ffffff;
     text-decoration: none;
-	display: none;
-	text-size: 18px;
 }
 .displai{
     background: linear-gradient(to bottom right,blue,dodgerblue,navy);
     border-radius: 10px;
+    display: inline;
 }
 #baixo{
     float: left;
