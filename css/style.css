@@ -51,6 +51,7 @@ li{
 #display{
     color: #ffffff;
     text-decoration: none;
+	display: none;
 }
 .displai{
     background: linear-gradient(to bottom right,blue,dodgerblue,navy);
