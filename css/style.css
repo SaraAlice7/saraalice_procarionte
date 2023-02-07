@@ -51,6 +51,7 @@ li{
 #display{
     font-size: 18px;
     color: #ffffff;
+	display: flex;
     text-decoration: none;
 }
 .displai{
