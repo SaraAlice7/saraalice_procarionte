@@ -52,13 +52,11 @@ p{
 .displai{
     background: linear-gradient(to bottom right,blue,dodgerblue,navy);
     border-radius: 10px;
-	display: none;
 }
 #display{
     font-size: 18px;
     color: #ffffff;
     text-decoration: none;
-	display: none;
 }
 .embed-container{
     position: relative;
