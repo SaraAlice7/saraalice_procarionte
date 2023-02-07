@@ -56,7 +56,6 @@ li{
 .displai{
     background: linear-gradient(to bottom right,blue,dodgerblue,navy);
     border-radius: 10px;
-    display: inline;
 }
 #baixo{
     float: left;
