@@ -58,8 +58,13 @@ li{
     border-radius: 10px;
     display: inline;
 }
-main{
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
+iframe{
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
