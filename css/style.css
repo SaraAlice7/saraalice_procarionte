@@ -58,6 +58,12 @@ li{
     border-radius: 10px;
     display: inline;
 }
+#baixo{
+    float: left;
+    margin: 10px;
+    display: flex;
+    padding: 2,37px;
+}
 .embed-container{
     position: relative;
     padding-bottom: 56.25%;
@@ -81,10 +87,4 @@ li{
     float: center;
     margin: auto;
     display:flex;
-}
-#baixo{
-    float: left;
-    margin: 10px;
-    display: flex;
-    padding: 2 37px;
 }
