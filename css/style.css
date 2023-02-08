@@ -53,6 +53,7 @@ p{
     background: linear-gradient(to bottom right,blue,dodgerblue,navy);
     border-radius: 10px;
 	list-style-type: none;
+	width: 50px;
 }
 #display{
     font-size: 18px;
